@@ -14,7 +14,7 @@
 
 <div class="container">
     <div class="column">
-        <h1>What to Expect:</h1>
+        <h1>What to Expect</h1>
         <p class="text-box">
             ✅ Live cultural performances
             <br />✅ Traditional and international cuisine
@@ -24,4 +24,27 @@
     </div>
 
     <img src="/tables.png" alt="Crowded tables during the event" class="tables" />
+</div>
+
+<div class="container">
+    <img src="/single.png" alt="A table about Native American culture" class="single" />
+
+    <div class="column">
+        <h1>Get Involved</h1>
+        <p>
+            Join a GHS Student Committee – Help plan and organize the event!
+            <br /><a href="https://forms.gle/d6ZhhSUkZY2YXo1A9">Student Committee Signup Form</a>
+            Perform or Showcase Your Culture – Sign up to share music, dance, art, anything!
+            <br /><a href="https://forms.gle/birsUnEKawB2cpdF8">Performance Signup Form</a><a
+                href="https://forms.gle/vMoYkV8U4GZLEPG29">Booth Signup Form</a
+            >
+        </p>
+        <h2>Contact Info</h2>
+        <p>
+            Email: <a href="mailto:ghsmulticulturalnight@gmail.com"
+                >ghsmulticulturalnight@gmail.com</a
+            >
+            Instagram: <a href="https://www.instagram.com/ghs_multicultural/">@ghs_multicultural</a>
+        </p>
+    </div>
 </div>
