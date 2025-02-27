@@ -10,8 +10,9 @@
     activities that showcase the many cultures in our community.
 </p>
 
-<img src="panorama.png" alt="Many colorful dancers and a few mariachi" class="panorama" />
-
+<div class="box">
+    <img src="panorama.png" alt="Many colorful dancers and a few mariachi" />
+</div>
 <div class="container">
     <div class="column">
         <h1>What to Expect</h1>
