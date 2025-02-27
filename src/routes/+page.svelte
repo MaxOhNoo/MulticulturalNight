@@ -2,7 +2,7 @@
     import './style.css';
 </script>
 
-<img src="/poster.jpg" alt="Multicultural Night" class="hero" />
+<img src="/poster.jpg" alt="Multicultural Night" />
 
 <p>
     Join us for a celebration of Livermore’s diverse cultures, traditions, and backgrounds!
@@ -35,11 +35,10 @@
             Join a GHS Student Committee – Help plan and organize the event!
             <br /><a href="https://forms.gle/d6ZhhSUkZY2YXo1A9">Student Committee Signup Form</a>
             Perform or Showcase Your Culture – Sign up to share music, dance, art, anything!
-            <br /><a href="https://forms.gle/birsUnEKawB2cpdF8">Performance Signup Form</a><a
-                href="https://forms.gle/vMoYkV8U4GZLEPG29">Booth Signup Form</a
-            >
+            <br /><a href="https://forms.gle/birsUnEKawB2cpdF8">Performance Signup Form</a>
+            <br /><a href="https://forms.gle/vMoYkV8U4GZLEPG29">Booth Signup Form</a>
         </p>
-        <h2>Contact Info</h2>
+        <h1>Contact Info</h1>
         <p>
             Email: <a href="mailto:ghsmulticulturalnight@gmail.com"
                 >ghsmulticulturalnight@gmail.com</a
