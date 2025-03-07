@@ -10,13 +10,13 @@
     activities that showcase the many cultures in our community.
 </p>
 
-<div class="box">
+<div style="border-top: 0.75vw solid white; border-bottom: 0.75vw solid white;">
     <img src="panorama.png" alt="Many colorful dancers and a few mariachi" />
 </div>
 <div class="container">
-    <div class="column">
+    <div class="column" style="border-bottom: 0.75vw solid white">
         <h1>What to Expect</h1>
-        <p class="text-box">
+        <p>
             ✅ Live cultural performances
             <br />✅ Traditional and international cuisine
             <br />✅ Art displays & interactive activities
