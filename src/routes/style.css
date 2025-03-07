@@ -4,7 +4,9 @@ body {
     width: 50vw;
     margin-left: auto;
     margin-right: auto;
-    border: 0.75vw solid white;
+    border-top: 0.75vw solid white;
+    border-left: 0.75vw solid white;
+    border-right: 0.75vw solid white;
     margin-top: auto;
 }
 
@@ -30,6 +32,7 @@ p {
     padding: 0%;
     border: 0%;
     margin: 0%;
+    padding-bottom: 0.5vw;
 }
 
 img {
@@ -40,6 +43,8 @@ img {
 .container {
     display: flex;
     align-items: stretch;
+    border-bottom: 0.75vw solid white;
+
 }
 
 .column {
@@ -55,13 +60,17 @@ img {
     border-bottom: 0.75vw solid white;
 }
 
+.panorama {
+    border-top: 0.75vw solid white; 
+    border-bottom: 0.75vw solid white;
+}
+
 .tables {
     width: 40%;
     margin-left: auto;
     margin-right: 0%;
 
     border-left: 0.75vw solid white;
-    border-bottom: 0.75vw solid white;
 }
 
 .single {
@@ -70,6 +79,43 @@ img {
     margin-right: auto;
 
     border-right: 0.75vw solid white;
+}
+
+@media screen and (orientation:portrait){
+    body {
+        width: 96vw;
+        border-top: 2vw solid white;
+        border-left: 2vw solid white;
+        border-right: 2vw solid white;
+    }
+    
+    h1 {
+        font-size: 6vw
+    }
+
+    p {
+        font-size: 4vw;
+    }
+
+    .container {
+        border-bottom: 2vw solid white;
+    }
+    /* .column {
+        border-bottom: 2vw solid white;
+    } */
+
+    .panorama {
+        border-top: 2vw solid white;
+        border-bottom: 2vw solid white;
+    }
+
+    .tables {
+        display: none;
+    }
+
+    .single {
+        display: none;
+    }
 }
 
 /* Old CSS: 110 lines */

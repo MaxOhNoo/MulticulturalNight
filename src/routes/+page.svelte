@@ -10,11 +10,11 @@
     activities that showcase the many cultures in our community.
 </p>
 
-<div style="border-top: 0.75vw solid white; border-bottom: 0.75vw solid white;">
-    <img src="panorama.png" alt="Many colorful dancers and a few mariachi" />
+<div>
+    <img src="/panorama.png" alt="Many colorful dancers and a few mariachi" class="panorama" />
 </div>
 <div class="container">
-    <div class="column" style="border-bottom: 0.75vw solid white">
+    <div class="column">
         <h1>What to Expect</h1>
         <p>
             ✅ Live cultural performances
@@ -35,7 +35,7 @@
         <p>
             Join a GHS Student Committee – Help plan and organize the event!
             <br /><a href="https://forms.gle/d6ZhhSUkZY2YXo1A9">Student Committee Signup Form</a>
-            Perform or Showcase Your Culture – Sign up to share music, dance, art, anything!
+            <br />Perform or Showcase Your Culture – Sign up to share music, dance, art, anything!
             <br /><a href="https://forms.gle/birsUnEKawB2cpdF8">Performance Signup Form</a>
             <br /><a href="https://forms.gle/vMoYkV8U4GZLEPG29">Booth Signup Form</a>
         </p>
